@@ -5,6 +5,7 @@ b = int(input("Ingrese el lado b del triángulo: "))
 c = int(input("Ingrese el lado c del triángulo: "))
 
 r = a^2 + b^2
+
 if r == c^2:
     print("El triángulo es rectángulo")
 elif r < c^2:
