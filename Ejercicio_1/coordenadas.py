@@ -14,5 +14,5 @@ elif x < 0 and y > 0:
     print("Los puntos que usted ingresó se encuentran en el cuadrante II")
 elif x < 0 and y < 0:
     print("Los puntos que usted ingresó se encuentran en el cuadrante III")
-elif x > 0 and y < 0:
+else:
     print("Los puntos que usted ingresó se encuentran en el cuadrante IV")
